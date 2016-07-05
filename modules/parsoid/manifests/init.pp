@@ -158,6 +158,7 @@ class parsoid {
                 'wikihoyo',
                 'worldbuilding',
                 'yggdrasilwiki',
+                'dtswiki',
     ]
 
     file { '/etc/mediawiki/parsoid/settings.js':
